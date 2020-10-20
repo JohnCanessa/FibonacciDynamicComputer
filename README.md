@@ -10,7 +10,7 @@ Huge improvement.
 To go further, the same problem is implemented with dynamic programming.
 If you are interested in my comments please read the associated post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/10/20/dynamic-programming-revisited/
 
 Hope you enjoy experiemnting with this code.
 Keep on learning;
